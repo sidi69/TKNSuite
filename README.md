@@ -36,5 +36,4 @@ Donate some spare crypto to help keeping this tool's development active :D
 
 For every question regarding this project make sure to contact me on one of the platforms listed below:
 
- - Discord: sidi#1337 (Discord username might change over time)
  - Email: 1d1s@protonmail.com

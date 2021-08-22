@@ -30,10 +30,11 @@ For the best experience use <200 threads and 5-10 timeout. (Prevents getting you
 
 Donate some spare crypto to help keeping this tool's development active :D
 
- - BTC: 12azAaiGcvYAHfsxDvRosrrXXfxoAxfrU4
+ - BTC: bc1qdtj2adgfhrrcc84gul5f3ttlx4du28udqw0wd4
 
 ## Contact me
 
 For every question regarding this project make sure to contact me on one of the platforms listed below:
 
- - Email: 1d1s@protonmail.com
+ - Email: contact@oxyde.dev
+
